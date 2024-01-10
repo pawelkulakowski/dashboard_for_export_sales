@@ -1,0 +1,16 @@
+database/data/clients_082021.csv
+database/data/company_orders_by_year_and_cw.feather
+database/data/linie_faktur_sprzedazy_17-20_E_Z01_kodproduktu_anulowane.csv
+database/data/linie_faktur_sprzedazy_17-20_E_Z01_kodproduktu_anulowane.parquet
+database/data/linie_ofert_17-20_E_Z01.csv
+database/data/linie_ofert_17-20_E_Z01.parquet
+database/data/linie_zamowien_17-20_E_Z01_kod_produktu_anulowane.csv
+database/data/linie_zamowien_17-20_E_Z01_kod_produktu_anulowane.parquet
+database/data/linie_zamowien_23082021_Z01_E.csv
+database/data/linie_zamowien_E_Z01_ABCDE_bez_anul_i_rma.feather
+database/data/linie_zamowien_E_Z01_ABCDE_bez_anul_i_rma.feathergi
+database/data/offers_by_date_till_2021_end.feather
+database/data/orders_by_year_and_cw_till_2021_end.feather
+database/data/orders_by_year_quarter_month_till_2021_end.feather
+database/data/sales_by_year_and_cw_till_2021_end.feather
+school.db
